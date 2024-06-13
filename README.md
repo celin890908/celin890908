@@ -1,46 +1,36 @@
-[Please Visit my Home Page](https://celin890908.github.io/celib890908.github.io/)
 # Celin in GitHub 🙋‍♀️
 
-Hi! Here is **Celin** from **Taiwan**,I'm a sophomore(well, going to be junior :smile:) and majors in MIS now!
+Hello! I'm **Celin** from **Taiwan**, currently a master's student at the Institute of Information in National Yang Ming Chiao Tung University.
 
-I love *Design*, *Singing* and everything about *ART*! 
+I am passionate about **Data Science** and **Artificial Intelligence**, with experience in data mining through various projects and internships. My career aspirations include becoming a data scientist, data engineer, or data analyst.
 
-And I usually spend hours of my leisure time  *learning something* which sounds **attractive** lol.
+### 💪 What Drives Me?
 
-### 💪 What PUSH me UP ?
+I believe that...
 
-I Believe that....
+- **Challenges are opportunities in disguise.**
+- **Perseverance is the key to achieving goals.**
+- **Effective teamwork and communication can overcome any obstacle.**
 
- - *Diligence Makes up for Deficiency* </font> 
- 
- -  *Law of Attraction* </font> 
- 
- -  *Heaven helps those who help themselves.* </font> 
- 
- 
-### ✔My Goals in the years to come
+### ✔ My Goals
 
-I hope I can quickly *Finish my studies*, and *Getting an Great Job* to improve myself.
+In the coming years, I aim to...
 
-Otherwise, I want to **Learn more Language** like *Korean, Japanese, and German*...
+- Complete my studies successfully.
+- Secure a great job to further enhance my skills.
+- Continue learning and growing in the field of data science and AI.
 
-And when I live a stable life, I wanna make my effort to HELP those who need help, **Spread Love in this World**</font>.
+Additionally, I am committed to using my skills to **help others and make a positive impact** on the world.
 
+### ▶ My Skills
 
-### ▶ My skill
+- [X] Data Science
+- [X] Data Mining
+- [X] Machine Learning
+- [X] Python
+- [X] Java
+- [X] Teamwork & Communication
 
+For more about me, please visit [my homepage](https://celin890908.github.io/celib890908.github.io/).
 
-- [X] digital art
-
-- [X] sketch & comic
-
-- [X] handicraft
-
-
-- [X] lyricist 
-
-- [X] writing
-
-- [X] Langues like : Python, Java...
-
-
+Let's connect and collaborate to make the world a better place through data and technology!
